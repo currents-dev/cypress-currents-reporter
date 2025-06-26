@@ -1,5 +1,15 @@
 # Debug, troubleshoot and record Cypress CI tests in Cloud
 
+---
+
+### Disclaimer
+
+This project is not affiliated with Cypress.io, Inc., and is not an official Cypress product. “Cypress” is a registered trademark of Cypress.io, Inc.
+This package is an open-source reporter for Currents, designed to work with the Cypress testing framework.
+For the official Cypress Cloud offering, visit https://cypress.io.
+
+---
+
 Integrate Cypress with alternative cloud services like Currents or Sorry Cypress.
 
 **[Currents](https://currents.dev/?utm_source=cypress-cloud)** - a drop-in replacement for Cypress Dashboard. Run, debug, troubleshoot and analyze parallel CI tests in cloud. This is an enhanced version of Sorry Cypress with better security, performance, analytics, integrations and support.
