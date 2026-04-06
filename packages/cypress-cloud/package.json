@@ -67,7 +67,7 @@
     "globby": "^11.1.0",
     "is-absolute": "^1.0.0",
     "lil-http-terminator": "^1.2.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "nanoid": "^3.3.8",
     "plur": "^4.0.0",
     "pretty-ms": "^7.0.1",
